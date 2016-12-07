@@ -1,0 +1,331 @@
+Borough,Year,Dwellings per hectare
+City of London,2005,17.1
+Barking and Dagenham,2005,18.3
+Barnet,2005,15.4
+Bexley,2005,14.5
+Brent,2005,24.3
+Bromley,2005,8.7
+Camden,2005,43.9
+Croydon,2005,16.5
+Ealing,2005,21.9
+Enfield,2005,14.2
+Greenwich,2005,19.8
+Hackney,2005,48.7
+Hammersmith and Fulham,2005,45.9
+Haringey,2005,32.8
+Harrow,2005,16.4
+Havering,2005,8.4
+Hillingdon,2005,8.7
+Hounslow,2005,15.8
+Islington,2005,59.2
+Kensington and Chelsea,2005,68.2
+Kingston upon Thames,2005,17.2
+Lambeth,2005,45.4
+Lewisham,2005,31.6
+Merton,2005,21.3
+Newham,2005,25.2
+Redbridge,2005,17.2
+Richmond upon Thames,2005,13.6
+Southwark,2005,37.5
+Sutton,2005,17.9
+Tower Hamlets,2005,41.0
+Waltham Forest,2005,24.1
+Wandsworth,2005,35.7
+Westminster,2005,49.1
+City of London,2006,17.1
+Barking and Dagenham,2006,18.4
+Barnet,2006,15.6
+Bexley,2006,14.5
+Brent,2006,24.7
+Bromley,2006,8.8
+Camden,2006,44.2
+Croydon,2006,16.5
+Ealing,2006,22.1
+Enfield,2006,14.3
+Greenwich,2006,20.1
+Hackney,2006,49.3
+Hammersmith and Fulham,2006,46.2
+Haringey,2006,33.2
+Harrow,2006,16.5
+Havering,2006,8.4
+Hillingdon,2006,8.8
+Hounslow,2006,16.0
+Islington,2006,59.8
+Kensington and Chelsea,2006,68.3
+Kingston upon Thames,2006,17.2
+Lambeth,2006,45.9
+Lewisham,2006,31.9
+Merton,2006,21.4
+Newham,2006,25.5
+Redbridge,2006,17.3
+Richmond upon Thames,2006,13.8
+Southwark,2006,38.0
+Sutton,2006,17.9
+Tower Hamlets,2006,42.3
+Waltham Forest,2006,24.3
+Wandsworth,2006,36.1
+Westminster,2006,50.0
+City of London,2007,17.1
+Barking and Dagenham,2007,18.5
+Barnet,2007,15.6
+Bexley,2007,14.6
+Brent,2007,25.0
+Bromley,2007,8.8
+Camden,2007,44.5
+Croydon,2007,16.6
+Ealing,2007,22.3
+Enfield,2007,14.4
+Greenwich,2007,20.2
+Hackney,2007,50.1
+Hammersmith and Fulham,2007,46.6
+Haringey,2007,33.7
+Harrow,2007,16.7
+Havering,2007,8.5
+Hillingdon,2007,8.8
+Hounslow,2007,16.3
+Islington,2007,61.0
+Kensington and Chelsea,2007,68.3
+Kingston upon Thames,2007,17.3
+Lambeth,2007,46.4
+Lewisham,2007,32.1
+Merton,2007,21.4
+Newham,2007,25.7
+Redbridge,2007,17.5
+Richmond upon Thames,2007,13.8
+Southwark,2007,38.8
+Sutton,2007,17.9
+Tower Hamlets,2007,43.7
+Waltham Forest,2007,24.6
+Wandsworth,2007,36.6
+Westminster,2007,50.7
+City of London,2008,17.2
+Barking and Dagenham,2008,18.7
+Barnet,2008,15.8
+Bexley,2008,14.6
+Brent,2008,25.2
+Bromley,2008,8.9
+Camden,2008,44.8
+Croydon,2008,16.8
+Ealing,2008,22.6
+Enfield,2008,14.6
+Greenwich,2008,20.3
+Hackney,2008,51.1
+Hammersmith and Fulham,2008,46.9
+Haringey,2008,34.1
+Harrow,2008,16.8
+Havering,2008,8.5
+Hillingdon,2008,8.8
+Hounslow,2008,16.6
+Islington,2008,62.2
+Kensington and Chelsea,2008,68.3
+Kingston upon Thames,2008,17.4
+Lambeth,2008,47.0
+Lewisham,2008,32.4
+Merton,2008,21.4
+Newham,2008,25.9
+Redbridge,2008,17.6
+Richmond upon Thames,2008,13.9
+Southwark,2008,39.5
+Sutton,2008,18.0
+Tower Hamlets,2008,45.0
+Waltham Forest,2008,24.8
+Wandsworth,2008,37.0
+Westminster,2008,51.5
+City of London,2009,17.4
+Barking and Dagenham,2009,18.7
+Barnet,2009,15.9
+Bexley,2009,14.7
+Brent,2009,25.5
+Bromley,2009,8.9
+Camden,2009,45.2
+Croydon,2009,16.9
+Ealing,2009,22.8
+Enfield,2009,14.7
+Greenwich,2009,20.3
+Hackney,2009,52.3
+Hammersmith and Fulham,2009,47.2
+Haringey,2009,34.6
+Harrow,2009,16.9
+Havering,2009,8.6
+Hillingdon,2009,8.9
+Hounslow,2009,16.8
+Islington,2009,63.7
+Kensington and Chelsea,2009,68.3
+Kingston upon Thames,2009,17.4
+Lambeth,2009,47.4
+Lewisham,2009,32.7
+Merton,2009,21.5
+Newham,2009,26.2
+Redbridge,2009,17.7
+Richmond upon Thames,2009,13.9
+Southwark,2009,40.0
+Sutton,2009,18.1
+Tower Hamlets,2009,46.6
+Waltham Forest,2009,25.1
+Wandsworth,2009,37.5
+Westminster,2009,52.2
+City of London,2010,17.3
+Barking and Dagenham,2010,18.8
+Barnet,2010,16.0
+Bexley,2010,14.7
+Brent,2010,25.8
+Bromley,2010,8.9
+Camden,2010,45.5
+Croydon,2010,17.0
+Ealing,2010,22.8
+Enfield,2010,14.7
+Greenwich,2010,20.4
+Hackney,2010,53.4
+Hammersmith and Fulham,2010,47.7
+Haringey,2010,34.9
+Harrow,2010,17.0
+Havering,2010,8.6
+Hillingdon,2010,8.9
+Hounslow,2010,16.9
+Islington,2010,64.8
+Kensington and Chelsea,2010,68.4
+Kingston upon Thames,2010,17.5
+Lambeth,2010,47.9
+Lewisham,2010,33.0
+Merton,2010,21.5
+Newham,2010,26.6
+Redbridge,2010,17.9
+Richmond upon Thames,2010,14.0
+Southwark,2010,40.6
+Sutton,2010,18.1
+Tower Hamlets,2010,48.0
+Waltham Forest,2010,25.2
+Wandsworth,2010,38.0
+Westminster,2010,52.9
+City of London,2011,17.5
+Barking and Dagenham,2011,18.8
+Barnet,2011,16.1
+Bexley,2011,14.8
+Brent,2011,25.9
+Bromley,2011,9.0
+Camden,2011,45.8
+Croydon,2011,17.1
+Ealing,2011,22.9
+Enfield,2011,14.8
+Greenwich,2011,20.5
+Hackney,2011,53.8
+Hammersmith and Fulham,2011,48.0
+Haringey,2011,35.2
+Harrow,2011,17.1
+Havering,2011,8.7
+Hillingdon,2011,9.0
+Hounslow,2011,17.1
+Islington,2011,65.2
+Kensington and Chelsea,2011,68.5
+Kingston upon Thames,2011,17.5
+Lambeth,2011,48.5
+Lewisham,2011,33.3
+Merton,2011,21.5
+Newham,2011,26.8
+Redbridge,2011,18.0
+Richmond upon Thames,2011,14.0
+Southwark,2011,41.2
+Sutton,2011,18.2
+Tower Hamlets,2011,48.8
+Waltham Forest,2011,25.3
+Wandsworth,2011,38.2
+Westminster,2011,53.7
+City of London,2012,17.6
+Barking and Dagenham,2012,18.9
+Barnet,2012,16.3
+Bexley,2012,14.8
+Brent,2012,26.1
+Bromley,2012,9.0
+Camden,2012,46.0
+Croydon,2012,17.2
+Ealing,2012,23.0
+Enfield,2012,14.9
+Greenwich,2012,20.7
+Hackney,2012,54.4
+Hammersmith and Fulham,2012,48.3
+Haringey,2012,35.6
+Harrow,2012,17.2
+Havering,2012,8.7
+Hillingdon,2012,9.1
+Hounslow,2012,17.2
+Islington,2012,66.0
+Kensington and Chelsea,2012,68.6
+Kingston upon Thames,2012,17.6
+Lambeth,2012,48.8
+Lewisham,2012,33.6
+Merton,2012,21.6
+Newham,2012,27.0
+Redbridge,2012,18.0
+Richmond upon Thames,2012,14.1
+Southwark,2012,41.6
+Sutton,2012,18.3
+Tower Hamlets,2012,50.2
+Waltham Forest,2012,25.5
+Wandsworth,2012,38.5
+Westminster,2012,54.1
+City of London,2013,17.7
+Barking and Dagenham,2013,19.0
+Barnet,2013,16.5
+Bexley,2013,14.9
+Brent,2013,26.2
+Bromley,2013,9.1
+Camden,2013,46.2
+Croydon,2013,17.3
+Ealing,2013,23.2
+Enfield,2013,14.9
+Greenwich,2013,20.7
+Hackney,2013,54.8
+Hammersmith and Fulham,2013,48.5
+Haringey,2013,35.8
+Harrow,2013,17.4
+Havering,2013,8.7
+Hillingdon,2013,9.2
+Hounslow,2013,17.3
+Islington,2013,66.7
+Kensington and Chelsea,2013,68.6
+Kingston upon Thames,2013,17.6
+Lambeth,2013,49.0
+Lewisham,2013,34.2
+Merton,2013,21.8
+Newham,2013,27.2
+Redbridge,2013,18.1
+Richmond upon Thames,2013,14.2
+Southwark,2013,42.0
+Sutton,2013,18.4
+Tower Hamlets,2013,50.6
+Waltham Forest,2013,25.6
+Wandsworth,2013,38.8
+Westminster,2013,54.4
+City of London,2014,19.1
+Barking and Dagenham,2014,19.2
+Barnet,2014,16.6
+Bexley,2014,15.0
+Brent,2014,26.4
+Bromley,2014,9.1
+Camden,2014,46.4
+Croydon,2014,17.5
+Ealing,2014,23.3
+Enfield,2014,15.0
+Greenwich,2014,21.0
+Hackney,2014,55.4
+Hammersmith and Fulham,2014,48.9
+Haringey,2014,36.0
+Harrow,2014,17.4
+Havering,2014,8.7
+Hillingdon,2014,9.2
+Hounslow,2014,17.4
+Islington,2014,67.5
+Kensington and Chelsea,2014,69.1
+Kingston upon Thames,2014,17.7
+Lambeth,2014,49.5
+Lewisham,2014,34.4
+Merton,2014,21.9
+Newham,2014,27.7
+Redbridge,2014,18.1
+Richmond upon Thames,2014,14.2
+Southwark,2014,42.5
+Sutton,2014,18.4
+Tower Hamlets,2014,50.9
+Waltham Forest,2014,25.7
+Wandsworth,2014,39.1
+Westminster,2014,54.6

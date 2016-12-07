@@ -1,0 +1,322 @@
+Borough,Year,Live births,GFR,TFR
+Barking and Dagenham,2005,2985,79.2,2.36
+Barnet,2005,4728,62.8,1.77
+Bexley,2005,2686,58.6,1.85
+Brent,2005,4503,69.2,1.96
+Bromley,2005,3663,59.1,1.76
+Camden,2005,2954,48,1.32
+Croydon,2005,4704,60,1.8
+Ealing,2005,4838,66.9,1.89
+Enfield,2005,4496,71.4,2.16
+Greenwich,2005,3963,71.6,2.03
+Hackney,2005,4439,77,2.2
+Hammersmith and Fulham,2005,2686,53.9,1.49
+Haringey,2005,4026,69.1,1.97
+Harrow,2005,2872,62.2,1.83
+Havering,2005,2474,55.9,1.77
+Hillingdon,2005,3489,61.2,1.81
+Hounslow,2005,3674,73.3,2.09
+Islington,2005,2731,53.4,1.49
+Kensington and Chelsea,2005,2188,43.9,1.19
+Kingston upon Thames,2005,2000,55.7,1.59
+Lambeth,2005,4739,65.7,1.87
+Lewisham,2005,4284,68.5,2
+Merton,2005,2925,63.3,1.73
+Newham,2005,5353,86.8,2.47
+Redbridge,2005,3577,66,1.94
+Richmond upon Thames,2005,2580,60.6,1.59
+Southwark,2005,4714,71.3,2.01
+Sutton,2005,2325,60.4,1.82
+Tower Hamlets,2005,3968,69.5,1.82
+Waltham Forest,2005,3989,74.1,2.13
+Wandsworth,2005,4554,54.8,1.51
+Westminster,2005,2912,44.6,1.23
+Barking and Dagenham,2006,3208,85.5,2.55
+Barnet,2006,4834,63.7,1.81
+Bexley,2006,2788,60.5,1.93
+Brent,2006,4700,71.6,2.03
+Bromley,2006,3740,59.6,1.81
+Camden,2006,3012,46.2,1.28
+Croydon,2006,5024,63.6,1.93
+Ealing,2006,5064,71.1,2
+Enfield,2006,4543,72.9,2.21
+Greenwich,2006,4236,75.4,2.14
+Hackney,2006,4613,79.3,2.26
+Hammersmith and Fulham,2006,2770,54.4,1.51
+Haringey,2006,4076,70.6,2.01
+Harrow,2006,2924,62.3,1.84
+Havering,2006,2426,54.4,1.75
+Hillingdon,2006,3691,63.3,1.88
+Hounslow,2006,3828,76.9,2.2
+Islington,2006,2803,53.5,1.5
+Kensington and Chelsea,2006,2321,42.4,1.17
+Kingston upon Thames,2006,2046,56.5,1.62
+Lambeth,2006,4908,67.9,1.94
+Lewisham,2006,4568,73.1,2.14
+Merton,2006,3091,65.5,1.81
+Newham,2006,5523,90.4,2.56
+Redbridge,2006,3977,71.6,2.11
+Richmond upon Thames,2006,2767,63.5,1.68
+Southwark,2006,4753,70.7,1.99
+Sutton,2006,2426,63.4,1.94
+Tower Hamlets,2006,4152,70.2,1.83
+Waltham Forest,2006,4185,76.8,2.23
+Wandsworth,2006,5000,58.7,1.58
+Westminster,2006,2886,40.6,1.12
+Barking and Dagenham,2007,3384,89.1,2.65
+Barnet,2007,5120,69.4,1.96
+Bexley,2007,2947,63.8,2.05
+Brent,2007,4839,73.4,2.05
+Bromley,2007,3956,64.4,1.96
+Camden,2007,3147,47.6,1.32
+Croydon,2007,5315,70.2,2.16
+Ealing,2007,5346,73.6,2.04
+Enfield,2007,4856,76.3,2.29
+Greenwich,2007,4471,82.7,2.33
+Hackney,2007,4500,77.9,2.21
+Hammersmith and Fulham,2007,2695,56.7,1.56
+Haringey,2007,4325,74.2,2.1
+Harrow,2007,3088,66.6,1.97
+Havering,2007,2575,57.5,1.86
+Hillingdon,2007,3845,67.2,2.03
+Hounslow,2007,4082,78.7,2.21
+Islington,2007,2792,51.9,1.45
+Kensington and Chelsea,2007,2218,49.3,1.3
+Kingston upon Thames,2007,2197,59.6,1.7
+Lambeth,2007,4822,65.9,1.88
+Lewisham,2007,4671,71.7,2.06
+Merton,2007,3300,68.3,1.88
+Newham,2007,6053,97.7,2.71
+Redbridge,2007,4085,73.4,2.14
+Richmond upon Thames,2007,2884,71.6,1.89
+Southwark,2007,4966,69.5,1.94
+Sutton,2007,2568,63.2,1.89
+Tower Hamlets,2007,4144,69.4,1.8
+Waltham Forest,2007,4449,83.7,2.44
+Wandsworth,2007,4936,58.2,1.57
+Westminster,2007,2929,44.7,1.24
+Barking and Dagenham,2008,3619,93,2.76
+Barnet,2008,5195,71.7,2.07
+Bexley,2008,2975,64.7,2.08
+Brent,2008,4899,76.3,2.15
+Bromley,2008,3983,64.5,1.98
+Camden,2008,3061,44.6,1.23
+Croydon,2008,5331,70.9,2.17
+Ealing,2008,5549,77,2.14
+Enfield,2008,5000,79.4,2.38
+Greenwich,2008,4361,81.7,2.33
+Hackney,2008,4485,76.8,2.16
+Hammersmith and Fulham,2008,2733,58.2,1.6
+Haringey,2008,4289,74.9,2.12
+Harrow,2008,3230,70.9,2.1
+Havering,2008,2787,61.9,1.97
+Hillingdon,2008,4126,71.9,2.18
+Hounslow,2008,4209,80.9,2.26
+Islington,2008,2917,52.9,1.49
+Kensington and Chelsea,2008,2216,50.2,1.35
+Kingston upon Thames,2008,2248,59.5,1.7
+Lambeth,2008,4837,66,1.85
+Lewisham,2008,4872,73.7,2.12
+Merton,2008,3330,68.5,1.87
+Newham,2008,5963,97.6,2.7
+Redbridge,2008,4013,70.7,2.06
+Richmond upon Thames,2008,2865,72.8,1.95
+Southwark,2008,5008,68.3,1.9
+Sutton,2008,2605,63.7,1.93
+Tower Hamlets,2008,4230,67.1,1.75
+Waltham Forest,2008,4582,87.4,2.55
+Wandsworth,2008,5246,61.1,1.63
+Westminster,2008,2887,43.9,1.2
+Barking and Dagenham,2009,3624,90.5,2.66
+Barnet,2009,5286,70.7,2.01
+Bexley,2009,3029,65.1,2.07
+Brent,2009,5132,89.7,2.57
+Bromley,2009,4104,64.9,1.98
+Camden,2009,3094,47.3,1.3
+Croydon,2009,5235,69.7,2.13
+Ealing,2009,5638,77.1,2.12
+Enfield,2009,4828,76.1,2.27
+Greenwich,2009,4480,82.7,2.35
+Hackney,2009,4574,76,2.13
+Hammersmith and Fulham,2009,2841,62.3,1.72
+Haringey,2009,4193,74.2,2.08
+Harrow,2009,3265,66.9,1.93
+Havering,2009,2697,59.1,1.87
+Hillingdon,2009,4207,71.1,2.13
+Hounslow,2009,4297,77.9,2.14
+Islington,2009,2983,55.1,1.56
+Kensington and Chelsea,2009,2227,54.6,1.47
+Kingston upon Thames,2009,2321,58.8,1.7
+Lambeth,2009,4863,64.2,1.8
+Lewisham,2009,4888,73.8,2.11
+Merton,2009,3462,70.8,1.92
+Newham,2009,6003,103,2.87
+Redbridge,2009,4253,71.9,2.06
+Richmond upon Thames,2009,2859,68.3,1.82
+Southwark,2009,4873,64.8,1.8
+Sutton,2009,2786,67.2,2.02
+Tower Hamlets,2009,4337,66.1,1.73
+Waltham Forest,2009,4533,87.3,2.54
+Wandsworth,2009,5335,62.2,1.65
+Westminster,2009,2998,42.6,1.18
+Barking and Dagenham,2010,3729,90,2.61
+Barnet,2010,5541,74.1,2.1
+Bexley,2010,2993,65,2.04
+Brent,2010,5240,95.3,2.72
+Bromley,2010,4070,65.3,1.96
+Camden,2010,3060,45.5,1.25
+Croydon,2010,5536,75.6,2.29
+Ealing,2010,5861,81.8,2.26
+Enfield,2010,5122,81.7,2.4
+Greenwich,2010,4674,86.5,2.42
+Hackney,2010,4677,75.9,2.12
+Hammersmith and Fulham,2010,2773,63.6,1.74
+Haringey,2010,4456,83.5,2.35
+Harrow,2010,3503,72.2,2.06
+Havering,2010,2817,61.6,1.91
+Hillingdon,2010,4192,69.8,2.05
+Hounslow,2010,4433,81.2,2.21
+Islington,2010,2952,54,1.53
+Kensington and Chelsea,2010,2221,57.8,1.55
+Kingston upon Thames,2010,2312,58.8,1.66
+Lambeth,2010,4929,65.5,1.81
+Lewisham,2010,4982,76.8,2.17
+Merton,2010,3523,71.5,1.93
+Newham,2010,6262,113.9,3.18
+Redbridge,2010,4462,75,2.13
+Richmond upon Thames,2010,2992,72.4,1.93
+Southwark,2010,5131,69,1.89
+Sutton,2010,2675,64.5,1.93
+Tower Hamlets,2010,4565,66.3,1.69
+Waltham Forest,2010,4823,93.7,2.71
+Wandsworth,2010,5546,64.4,1.66
+Westminster,2010,3059,43.6,1.17
+City of London,2011,,,
+Barking and Dagenham,2011,3688,84.7,2.45
+Barnet,2011,5506,67.6,1.89
+Bexley,2011,3172,66.9,2.08
+Brent,2011,5228,69.8,1.91
+Bromley,2011,4141,67,2.02
+Camden,2011,3117,51.5,1.44
+Croydon,2011,5720,71,2.07
+Ealing,2011,5803,72.1,1.97
+Enfield,2011,4904,68.8,2
+Greenwich,2011,4561,74.3,2.1
+Hackney,2011,4450,62.8,1.74
+Hammersmith and Fulham,2011,2754,52.6,1.43
+Haringey,2011,4227,64.8,1.8
+Harrow,2011,3466,67.1,1.9
+Havering,2011,2895,62.2,1.91
+Hillingdon,2011,4357,70.9,2.06
+Hounslow,2011,4561,75.3,2.05
+Islington,2011,3008,50.5,1.42
+Kensington and Chelsea,2011,2185,55.8,1.46
+Kingston upon Thames,2011,2289,60.7,1.75
+Lambeth,2011,4784,56.2,1.56
+Lewisham,2011,4896,70.2,1.95
+Merton,2011,3537,73.8,1.98
+Newham,2011,6335,81.4,2.2
+Redbridge,2011,4605,73.6,2.06
+Richmond upon Thames,2011,2935,72,1.9
+Southwark,2011,5089,63.9,1.77
+Sutton,2011,2756,67.3,1.99
+Tower Hamlets,2011,4545,60.4,1.6
+Waltham Forest,2011,4811,77,2.14
+Wandsworth,2011,5477,59.9,1.6
+Westminster,2011,3041,53.7,1.43
+Barking and Dagenham,2012,3957,89.98,2.58
+Barnet,2012,5585,68.3,1.9
+Bexley,2012,3076,64.93,1.99
+Brent,2012,5340,72.13,1.97
+Bromley,2012,4140,66.5,1.98
+Camden,2012,2944,48.24,1.35
+Croydon,2012,5884,73.04,2.12
+Ealing,2012,5847,73.68,2
+Enfield,2012,5094,71.89,2.07
+Greenwich,2012,4624,74.64,2.08
+Hackney,2012,4585,63.75,1.76
+Hammersmith and Fulham,2012,2646,52.49,1.42
+Haringey,2012,4209,64.68,1.79
+Harrow,2012,3585,69.64,1.95
+Havering,2012,2888,61.87,1.88
+Hillingdon,2012,4536,72.51,2.08
+Hounslow,2012,4621,76.17,2.07
+Islington,2012,2988,49.51,1.39
+Kensington and Chelsea,2012,2024,53.86,1.4
+Kingston upon Thames,2012,2328,60.62,1.74
+Lambeth,2012,4825,55.98,1.56
+Lewisham,2012,5095,72.14,2
+Merton,2012,3476,72.63,1.94
+Newham,2012,6426,82.33,2.21
+Redbridge,2012,4792,75.53,2.11
+Richmond upon Thames,2012,2916,72.1,1.88
+Southwark,2012,5030,62.71,1.72
+Sutton,2012,2708,65.99,1.93
+Tower Hamlets,2012,4784,62.15,1.62
+Waltham Forest,2012,4832,77.48,2.15
+Wandsworth,2012,5451,59.79,1.59
+Westminster,2012,2950,51.59,1.37
+Barking and Dagenham,2013,3796,85.5,2.45
+Barnet,2013,5187,63.4,1.74
+Bexley,2013,2959,62.1,1.88
+Brent,2013,5170,70.6,1.92
+Bromley,2013,3899,62.2,1.82
+Camden,2013,2766,45.5,1.26
+Croydon,2013,5605,69.5,2
+Ealing,2013,5395,68.8,1.88
+Enfield,2013,4908,69.5,1.99
+Greenwich,2013,4442,71.1,1.97
+Hackney,2013,4500,61.5,1.69
+Hammersmith and Fulham,2013,2552,52.4,1.41
+Haringey,2013,4141,63.3,1.74
+Harrow,2013,3559,70,1.95
+Havering,2013,3004,63.8,1.9
+Hillingdon,2013,4330,68.8,1.95
+Hounslow,2013,4443,73.3,1.98
+Islington,2013,2819,46,1.29
+Kensington and Chelsea,2013,1803,49.5,1.27
+Kingston upon Thames,2013,2112,54.4,1.55
+Lambeth,2013,4589,53,1.46
+Lewisham,2013,4827,68.1,1.87
+Merton,2013,3370,70.9,1.87
+Newham,2013,6267,80.1,2.14
+Redbridge,2013,4591,71.4,1.97
+Richmond upon Thames,2013,2805,69.5,1.8
+Southwark,2013,4706,57.9,1.58
+Sutton,2013,2629,64,1.85
+Tower Hamlets,2013,4608,58.2,1.5
+Waltham Forest,2013,4721,75.4,2.08
+Wandsworth,2013,5152,56.6,1.5
+Westminster,2013,2677,48.3,1.25
+Barking and Dagenham,2014,3569,79.4,2.28
+Barnet,2014,5244,64.1,1.75
+Bexley,2014,3037,63.1,1.88
+Brent,2014,5078,70,1.91
+Bromley,2014,4086,64.8,1.88
+Camden,2014,2700,44.3,1.24
+Croydon,2014,5645,70.3,2.01
+Ealing,2014,5474,71.5,1.94
+Enfield,2014,4824,68.2,1.94
+Greenwich,2014,4368,69.7,1.92
+Hackney,2014,4377,60.1,1.66
+Hammersmith and Fulham,2014,2440,51.5,1.37
+Haringey,2014,4006,61,1.67
+Harrow,2014,3525,69.7,1.92
+Havering,2014,3150,65.9,1.93
+Hillingdon,2014,4423,69.2,1.94
+Hounslow,2014,4245,70.2,1.9
+Islington,2014,2879,46,1.29
+Kensington and Chelsea,2014,1821,50.9,1.31
+Kingston upon Thames,2014,2247,57.4,1.63
+Lambeth,2014,4528,52,1.43
+Lewisham,2014,4759,65.8,1.79
+Merton,2014,3274,69.9,1.86
+Newham,2014,6023,76.6,2.05
+Redbridge,2014,4678,72,1.99
+Richmond upon Thames,2014,2589,64.2,1.68
+Southwark,2014,4647,57,1.55
+Sutton,2014,2751,66.9,1.93
+Tower Hamlets,2014,4619,56.6,1.46
+Waltham Forest,2014,4618,74.2,2.03
+Wandsworth,2014,5110,56.4,1.47
+Westminster,2014,2604,46.5,1.2
