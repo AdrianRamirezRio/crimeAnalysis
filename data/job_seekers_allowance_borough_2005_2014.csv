@@ -1,0 +1,331 @@
+Borough,Total,Rate,Year
+City of London,470,"6,8017366136",2005
+Barking and Dagenham,15470,"14,573441857",2005
+Barnet,19310,"8,8615378967",2005
+Bexley,10910,"7,7172283055",2005
+Brent,26790,"15,16532411",2005
+Bromley,14570,"7,579895848",2005
+Camden,20730,"12,7049305917",2005
+Croydon,22270,"10,0233142199",2005
+Ealing,23040,"10,7092557904",2005
+Enfield,24780,"13,2604845054",2005
+Greenwich,21210,"14,0771221876",2005
+Hackney,27980,"19,4624523525",2005
+Hammersmith and Fulham,14660,"11,7921492921",2005
+Haringey,30090,"18,8329692752",2005
+Harrow,11530,"7,9003446551",2005
+Havering,9430,"6,5862993798",2005
+Hillingdon,13900,"8,3249484931",2005
+Hounslow,12810,"8,2692642872",2005
+Islington,22350,"16,2982841225",2005
+Kensington and Chelsea,9920,"8,1398879124",2005
+Kingston upon Thames,5730,"5,1940753096",2005
+Lambeth,34760,"17,2278778387",2005
+Lewisham,27910,"15,6465483412",2005
+Merton,11590,"8,5622889902",2005
+Newham,27380,"16,7343047135",2005
+Redbridge,15560,"9,4106831817",2005
+Richmond upon Thames,6520,"5,1746442432",2005
+Southwark,32120,"16,7608551585",2005
+Sutton,8180,"6,7304606828",2005
+Tower Hamlets,29410,"19,273871158",2005
+Waltham Forest,23330,"15,736187836",2005
+Wandsworth,19930,"9,5700442729",2005
+Westminster,14810,"8,2614201164",2005
+City of London,510,"6,7",2006
+Barking and Dagenham,16250,"15,2",2006
+Barnet,20150,"9,1",2006
+Bexley,11540,"8,1",2006
+Brent,28440,"16,2",2006
+Bromley,14040,"7,2",2006
+Camden,20910,"12,6",2006
+Croydon,23850,"10,6",2006
+Ealing,24080,"11,1",2006
+Enfield,25510,"13,6",2006
+Greenwich,22380,"14,8",2006
+Hackney,30350,"20,9",2006
+Hammersmith and Fulham,14970,"12,1",2006
+Haringey,30860,"19,2",2006
+Harrow,11860,"8,0",2006
+Havering,10280,"7,1",2006
+Hillingdon,13820,"8,2",2006
+Hounslow,13830,"8,8",2006
+Islington,23640,"17,1",2006
+Kensington and Chelsea,10180,"8,4",2006
+Kingston upon Thames,5470,"4,8",2006
+Lambeth,34730,"17,0",2006
+Lewisham,28500,"15,8",2006
+Merton,11700,"8,5",2006
+Newham,30950,"19,0",2006
+Redbridge,17020,"10,1",2006
+Richmond upon Thames,6340,"5,0",2006
+Southwark,31130,"15,7",2006
+Sutton,8540,"6,9",2006
+Tower Hamlets,32950,"21,1",2006
+Waltham Forest,25410,"17,1",2006
+Wandsworth,19390,"9,2",2006
+Westminster,15740,"8,5",2006
+City of London,470,"5,5",2007
+Barking and Dagenham,14930,"13,8",2007
+Barnet,16130,"7,3",2007
+Bexley,9560,"6,7",2007
+Brent,25280,"14,6",2007
+Bromley,11950,"6,1",2007
+Camden,16640,"9,9",2007
+Croydon,20650,"9,2",2007
+Ealing,21320,"9,9",2007
+Enfield,22020,"11,7",2007
+Greenwich,18620,"12,3",2007
+Hackney,27920,"19,1",2007
+Hammersmith and Fulham,13650,"11,0",2007
+Haringey,26670,"16,6",2007
+Harrow,9730,"6,5",2007
+Havering,9300,"6,3",2007
+Hillingdon,11760,"6,9",2007
+Hounslow,11830,"7,4",2007
+Islington,20310,"14,5",2007
+Kensington and Chelsea,8900,"7,3",2007
+Kingston upon Thames,4530,"4,0",2007
+Lambeth,30700,"14,8",2007
+Lewisham,23560,"12,9",2007
+Merton,9240,"6,6",2007
+Newham,27980,"17,2",2007
+Redbridge,15180,"8,8",2007
+Richmond upon Thames,4770,"3,7",2007
+Southwark,27510,"13,4",2007
+Sutton,6870,"5,5",2007
+Tower Hamlets,31300,"19,5",2007
+Waltham Forest,23000,"15,5",2007
+Wandsworth,15920,"7,5",2007
+Westminster,13840,"7,4",2007
+City of London,410,"4,4",2008
+Barking and Dagenham,15620,"14,3",2008
+Barnet,15650,"7,0",2008
+Bexley,10070,"7,0",2008
+Brent,23040,"13,4",2008
+Bromley,13160,"6,7",2008
+Camden,15460,"9,1",2008
+Croydon,21340,"9,4",2008
+Ealing,20450,"9,4",2008
+Enfield,22080,"11,7",2008
+Greenwich,18350,"12,1",2008
+Hackney,25470,"17,1",2008
+Hammersmith and Fulham,13190,"10,7",2008
+Haringey,25660,"16,0",2008
+Harrow,9390,"6,2",2008
+Havering,10370,"7,0",2008
+Hillingdon,11640,"6,8",2008
+Hounslow,11480,"7,1",2008
+Islington,19420,"13,7",2008
+Kensington and Chelsea,8750,"7,2",2008
+Kingston upon Thames,4700,"4,1",2008
+Lambeth,28630,"13,7",2008
+Lewisham,22680,"12,2",2008
+Merton,8800,"6,2",2008
+Newham,27500,"16,9",2008
+Redbridge,15880,"9,1",2008
+Richmond upon Thames,4950,"3,9",2008
+Southwark,25590,"12,3",2008
+Sutton,7310,"5,8",2008
+Tower Hamlets,30050,"18,1",2008
+Waltham Forest,22420,"15,0",2008
+Wandsworth,15330,"7,2",2008
+Westminster,12690,"6,7",2008
+City of London,630,"6,6",2009
+Barking and Dagenham,23930,"21,3",2009
+Barnet,26120,"11,5",2009
+Bexley,18650,"12,9",2009
+Brent,33480,"19,5",2009
+Bromley,23000,"11,6",2009
+Camden,21730,"12,4",2009
+Croydon,35580,"15,7",2009
+Ealing,34630,"15,7",2009
+Enfield,34560,"18,2",2009
+Greenwich,27950,"18,3",2009
+Hackney,35560,"23,6",2009
+Hammersmith and Fulham,20090,"16,2",2009
+Haringey,36200,"22,6",2009
+Harrow,16540,"10,8",2009
+Havering,19680,"13,2",2009
+Hillingdon,22290,"12,7",2009
+Hounslow,20120,"12,2",2009
+Islington,28450,"19,6",2009
+Kensington and Chelsea,13060,"11,0",2009
+Kingston upon Thames,9150,"7,8",2009
+Lambeth,41460,"19,6",2009
+Lewisham,34540,"18,4",2009
+Merton,14480,"10,0",2009
+Newham,37520,"23,2",2009
+Redbridge,25170,"14,2",2009
+Richmond upon Thames,9690,"7,6",2009
+Southwark,35860,"17,0",2009
+Sutton,13550,"10,6",2009
+Tower Hamlets,38980,"22,6",2009
+Waltham Forest,32090,"21,2",2009
+Wandsworth,24540,"11,5",2009
+Westminster,19010,"9,9",2009
+City of London,560,"5,8",2010
+Barking and Dagenham,25250,"22,0",2010
+Barnet,25640,"11,2",2010
+Bexley,17450,"12,0",2010
+Brent,34940,"20,4",2010
+Bromley,20870,"10,5",2010
+Camden,21610,"12,1",2010
+Croydon,36840,"16,2",2010
+Ealing,34410,"15,6",2010
+Enfield,36210,"18,9",2010
+Greenwich,28120,"18,3",2010
+Hackney,37910,"24,8",2010
+Hammersmith and Fulham,19270,"15,7",2010
+Haringey,37990,"23,9",2010
+Harrow,16000,"10,4",2010
+Havering,19610,"13,1",2010
+Hillingdon,21480,"12,1",2010
+Hounslow,20160,"12,2",2010
+Islington,28260,"19,3",2010
+Kensington and Chelsea,13500,"11,5",2010
+Kingston upon Thames,7970,"6,7",2010
+Lambeth,43220,"20,4",2010
+Lewisham,35660,"19,0",2010
+Merton,14040,"9,6",2010
+Newham,39520,"24,7",2010
+Redbridge,25510,"14,3",2010
+Richmond upon Thames,8530,"6,6",2010
+Southwark,38370,"18,1",2010
+Sutton,13110,"10,2",2010
+Tower Hamlets,39460,"22,6",2010
+Waltham Forest,33030,"21,6",2010
+Wandsworth,24590,"11,4",2010
+Westminster,19580,"10,1",2010
+City of London,480,"8,4",2011
+Barking and Dagenham,28320,"23,8",2011
+Barnet,26950,"11,4",2011
+Bexley,17990,"12,2",2011
+Brent,37510,"17,3",2011
+Bromley,22490,"11,4",2011
+Camden,21730,"13,5",2011
+Croydon,40600,"16,9",2011
+Ealing,35110,"15,0",2011
+Enfield,40530,"19,8",2011
+Greenwich,30220,"17,4",2011
+Hackney,42680,"23,9",2011
+Hammersmith and Fulham,20490,"15,0",2011
+Haringey,40780,"22,5",2011
+Harrow,15940,"10,1",2011
+Havering,20460,"13,6",2011
+Hillingdon,19680,"10,8",2011
+Hounslow,20460,"11,6",2011
+Islington,28000,"18,0",2011
+Kensington and Chelsea,13340,"11,7",2011
+Kingston upon Thames,7710,"7,0",2011
+Lambeth,46670,"20,6",2011
+Lewisham,39900,"20,6",2011
+Merton,14900,"10,8",2011
+Newham,44560,"20,3",2011
+Redbridge,27430,"14,9",2011
+Richmond upon Thames,7810,"6,3",2011
+Southwark,42930,"20,2",2011
+Sutton,13400,"10,7",2011
+Tower Hamlets,42390,"22,3",2011
+Waltham Forest,36880,"20,7",2011
+Wandsworth,25380,"11,1",2011
+Westminster,20480,"12,6",2011
+City of London,480,"8,1",2012
+Barking and Dagenham,28180,"22,8",2012
+Barnet,26800,"11,1",2012
+Bexley,17970,"11,8",2012
+Brent,38900,"17,8",2012
+Bromley,23370,"11,6",2012
+Camden,20820,"12,7",2012
+Croydon,41420,"16,9",2012
+Ealing,34690,"14,6",2012
+Enfield,40060,"19,1",2012
+Greenwich,31030,"17,1",2012
+Hackney,40130,"21,7",2012
+Hammersmith and Fulham,19070,"14,0",2012
+Haringey,39110,"21,1",2012
+Harrow,15950,"10,0",2012
+Havering,21520,"13,8",2012
+Hillingdon,20170,"10,8",2012
+Hounslow,19730,"10,9",2012
+Islington,27180,"16,9",2012
+Kensington and Chelsea,12140,"10,7",2012
+Kingston upon Thames,7890,"7,0",2012
+Lambeth,47280,"20,3",2012
+Lewisham,40710,"20,5",2012
+Merton,15330,"10,9",2012
+Newham,44490,"19,7",2012
+Redbridge,26640,"14,0",2012
+Richmond upon Thames,7640,"6,0",2012
+Southwark,42920,"19,7",2012
+Sutton,13630,"10,6",2012
+Tower Hamlets,42500,"21,5",2012
+Waltham Forest,37970,"20,7",2012
+Wandsworth,25100,"10,7",2012
+Westminster,19340,"11,6",2012
+City of London,400,"5,1",2013
+Barking and Dagenham,24980,"14,5",2013
+Barnet,23600,"7,1",2013
+Bexley,16080,"7,7",2013
+Brent,35690,"11,9",2013
+Bromley,18780,"6,6",2013
+Camden,17670,"7,7",2013
+Croydon,34770,"10,2",2013
+Ealing,32300,"10,1",2013
+Enfield,35410,"12,3",2013
+Greenwich,27170,"10,9",2013
+Hackney,35280,"13,7",2013
+Hammersmith and Fulham,18030,"10,1",2013
+Haringey,34540,"13,4",2013
+Harrow,13580,"6,2",2013
+Havering,18330,"8,5",2013
+Hillingdon,18080,"6,8",2013
+Hounslow,18260,"7,4",2013
+Islington,24160,"10,7",2013
+Kensington and Chelsea,10520,"6,9",2013
+Kingston upon Thames,7130,"4,5",2013
+Lambeth,42570,"13,2",2013
+Lewisham,35580,"12,8",2013
+Merton,13760,"7,2",2013
+Newham,39470,"12,7",2013
+Redbridge,22990,"8,7",2013
+Richmond upon Thames,7460,"4,3",2013
+Southwark,37970,"12,5",2013
+Sutton,11680,"6,5",2013
+Tower Hamlets,37070,"13,3",2013
+Waltham Forest,33830,"13,5",2013
+Wandsworth,23230,"7,3",2013
+Westminster,16630,"7,3",2013
+City of London,340,"5,7",2014
+Barking and Dagenham,17150,"13,7",2014
+Barnet,17520,"7,2",2014
+Bexley,10600,"7,0",2014
+Brent,26690,"12,2",2014
+Bromley,12800,"6,4",2014
+Camden,13300,"7,9",2014
+Croydon,23970,"9,8",2014
+Ealing,24150,"10,5",2014
+Enfield,25800,"12,3",2014
+Greenwich,20020,"11,0",2014
+Hackney,26040,"13,7",2014
+Hammersmith and Fulham,13230,"10,2",2014
+Haringey,26290,"13,9",2014
+Harrow,10030,"6,3",2014
+Havering,12590,"8,2",2014
+Hillingdon,12710,"6,6",2014
+Hounslow,13900,"7,7",2014
+Islington,18320,"11,0",2014
+Kensington and Chelsea,7900,"7,3",2014
+Kingston upon Thames,5450,"4,8",2014
+Lambeth,31190,"13,2",2014
+Lewisham,25810,"12,7",2014
+Merton,10410,"7,6",2014
+Newham,27260,"12,0",2014
+Redbridge,15670,"8,2",2014
+Richmond upon Thames,5880,"4,7",2014
+Southwark,28430,"12,8",2014
+Sutton,8050,"6,3",2014
+Tower Hamlets,25700,"12,3",2014
+Waltham Forest,24240,"13,3",2014
+Wandsworth,16630,"7,3",2014
+Westminster,12440,"7,4",2014
