@@ -1,331 +1,321 @@
-Borough,Level,Rate,Year
-City of London,-,-,2005
-Barking and Dagenham,6.600,"9,1",2005
-Barnet,11.500,"7,0",2005
-Bexley,5.700,"5,0",2005
-Brent,10.500,"7,9",2005
-Bromley,7.600,"4,7",2005
-Camden,8.500,"7,7",2005
-Croydon,12.400,"7,0",2005
-Ealing,12.100,"7,7",2005
-Enfield,12.000,"8,8",2005
-Greenwich,10.300,"8,8",2005
-Hackney,9.500,"10,6",2005
-Hammersmith and Fulham,6.800,"6,9",2005
-Haringey,9.600,"8,2",2005
-Harrow,7.000,"6,2",2005
-Havering,5.400,"4,8",2005
-Hillingdon,8.100,"6,5",2005
-Hounslow,7.800,"6,4",2005
-Islington,7.900,"8,5",2005
-Kensington and Chelsea,5.200,"5,9",2005
-Kingston upon Thames,4.100,"5,0",2005
-Lambeth,12.300,"8,6",2005
-Lewisham,10.000,"7,4",2005
-Merton,6.900,"6,8",2005
-Newham,10.000,"9,3",2005
-Redbridge,8.500,"7,3",2005
-Richmond upon Thames,4.100,"4,1",2005
-Southwark,11.200,"8,5",2005
-Sutton,4.800,"4,7",2005
-Tower Hamlets,11.600,"11,8",2005
-Waltham Forest,10.200,"9,1",2005
-Wandsworth,9.800,"6,0",2005
-Westminster,8.300,"7,2",2005
-City of London,-,-,2.006
-Barking and Dagenham,6.900,"9,5",2.006
-Barnet,11.300,"6,8",2.006
-Bexley,6.300,"5,5",2.006
-Brent,12.200,"9,1",2.006
-Bromley,8.000,"5,1",2.006
-Camden,9.200,"8,3",2.006
-Croydon,11.900,"6,6",2.006
-Ealing,12.100,"7,3",2.006
-Enfield,9.600,"6,7",2.006
-Greenwich,9.500,"8,0",2.006
-Hackney,11.800,"11,6",2.006
-Hammersmith and Fulham,7.800,"7,9",2.006
-Haringey,11.500,"9,3",2.006
-Harrow,7.900,"6,7",2.006
-Havering,5.500,"4,8",2.006
-Hillingdon,8.700,"6,8",2006
-Hounslow,9.400,"7,6",2006
-Islington,8.800,"8,9",2006
-Kensington and Chelsea,5.800,"6,9",2006
-Kingston upon Thames,3.900,"4,7",2006
-Lambeth,13.100,"9,1",2006
-Lewisham,11.400,"8,3",2006
-Merton,6.800,"6,5",2006
-Newham,13.500,"11,7",2006
-Redbridge,8.800,"7,2",2006
-Richmond upon Thames,4.100,"4,1",2006
-Southwark,13.200,"9,5",2006
-Sutton,5.100,"5,1",2006
-Tower Hamlets,13.400,"14,0",2006
-Waltham Forest,9.700,"8,4",2006
-Wandsworth,11.900,"7,2",2006
-Westminster,9.600,"8,2",2006
-City of London,-,-,2007
-Barking and Dagenham,6.100,"7,8",2007
-Barnet,8.800,"5,2",2007
-Bexley,5.000,"4,4",2007
-Brent,12.900,"8,7",2007
-Bromley,7.100,"4,4",2007
-Camden,7.800,"6,9",2007
-Croydon,10.800,"6,0",2007
-Ealing,10.300,"6,4",2007
-Enfield,9.100,"6,7",2007
-Greenwich,8.700,"7,3",2007
-Hackney,12.700,"11,4",2007
-Hammersmith and Fulham,7.000,"7,0",2007
-Haringey,11.600,"9,7",2007
-Harrow,5.700,"4,9",2007
-Havering,4.600,"3,9",2007
-Hillingdon,6.900,"5,8",2007
-Hounslow,6.700,"5,5",2007
-Islington,8.300,"7,9",2007
-Kensington and Chelsea,4.900,"5,7",2007
-Kingston upon Thames,3.300,"4,1",2007
-Lambeth,15.500,"9,9",2007
-Lewisham,13.100,"9,7",2007
-Merton,5.200,"4,7",2007
-Newham,13.500,"11,4",2007
-Redbridge,7.500,"6,1",2007
-Richmond upon Thames,3.600,"3,5",2007
-Southwark,13.700,"9,4",2007
-Sutton,4.500,"4,7",2007
-Tower Hamlets,12.000,"11,7",2007
-Waltham Forest,8.900,"7,6",2007
-Wandsworth,9.300,"5,5",2007
-Westminster,7.700,"6,6",2007
-City of London,-,-,2008
-Barking and Dagenham,6.700,"8,6",2008
-Barnet,10.600,"6,4",2008
-Bexley,6.400,"5,6",2008
-Brent,11.400,"7,3",2008
-Bromley,7.400,"4,5",2008
-Camden,7.900,"7,0",2008
-Croydon,11.700,"6,1",2008
-Ealing,11.600,"6,9",2008
-Enfield,11.800,"8,3",2008
-Greenwich,9.200,"7,9",2008
-Hackney,10.700,"9,0",2008
-Hammersmith and Fulham,7.700,"7,7",2008
-Haringey,10.600,"9,0",2008
-Harrow,6.600,"6,0",2008
-Havering,6.000,"5,0",2008
-Hillingdon,7.400,"5,6",2008
-Hounslow,7.400,"5,9",2008
-Islington,8.500,"7,9",2008
-Kensington and Chelsea,5.400,"6,4",2008
-Kingston upon Thames,3.900,"4,8",2008
-Lambeth,14.000,"8,8",2008
-Lewisham,11.400,"7,9",2008
-Merton,5.900,"5,3",2008
-Newham,12.700,"10,1",2008
-Redbridge,9.100,"7,2",2008
-Richmond upon Thames,3.700,"3,7",2008
-Southwark,12.600,"8,4",2008
-Sutton,4.400,"4,4",2008
-Tower Hamlets,13.300,"11,3",2008
-Waltham Forest,10.200,"8,7",2008
-Wandsworth,9.800,"5,5",2008
-Westminster,8.700,"7,7",2008
-City of London,-,-,2009
-Barking and Dagenham,9.400,"11,9",2009
-Barnet,13.200,"7,5",2009
-Bexley,9.200,"8,2",2009
-Brent,15.000,"9,4",2009
-Bromley,9.800,"6,2",2009
-Camden,10.100,"8,8",2009
-Croydon,17.100,"9,0",2009
-Ealing,17.200,"10,3",2009
-Enfield,15.400,"11,2",2009
-Greenwich,12.800,"10,8",2009
-Hackney,14.500,"11,0",2009
-Hammersmith and Fulham,9.100,"9,1",2009
-Haringey,15.500,"12,8",2009
-Harrow,9.000,"7,4",2009
-Havering,9.400,"7,9",2009
-Hillingdon,10.400,"7,5",2009
-Hounslow,10.500,"8,0",2009
-Islington,12.000,"11,0",2009
-Kensington and Chelsea,6.200,"7,6",2009
-Kingston upon Thames,4.700,"5,5",2009
-Lambeth,18.400,"10,4",2009
-Lewisham,15.300,"10,3",2009
-Merton,7.400,"6,8",2009
-Newham,17.600,"13,9",2009
-Redbridge,11.900,"8,9",2009
-Richmond upon Thames,4.900,"5,0",2009
-Southwark,16.500,"10,7",2009
-Sutton,5.900,"5,7",2009
-Tower Hamlets,16.800,"13,6",2009
-Waltham Forest,14.000,"11,1",2009
-Wandsworth,11.900,"6,3",2009
-Westminster,9.200,"7,7",2009
-City of London,-,-,2010
-Barking and Dagenham,11.000,"13,1",2010
-Barnet,12.800,"7,0",2010
-Bexley,9.900,"8,5",2010
-Brent,13.700,"8,9",2010
-Bromley,10.700,"6,9",2010
-Camden,10.200,"8,7",2010
-Croydon,15.400,"8,1",2010
-Ealing,15.900,"9,2",2010
-Enfield,14.200,"9,9",2010
-Greenwich,12.300,"9,7",2010
-Hackney,13.900,"10,4",2010
-Hammersmith and Fulham,8.400,"8,5",2010
-Haringey,13.200,"10,6",2010
-Harrow,8.300,"6,6",2010
-Havering,9.800,"8,5",2010
-Hillingdon,12.400,"9,3",2010
-Hounslow,10.100,"7,6",2010
-Islington,10.100,"9,3",2010
-Kensington and Chelsea,5.600,"7,0",2010
-Kingston upon Thames,5.800,"6,9",2010
-Lambeth,16.600,"9,3",2010
-Lewisham,14.500,"10,5",2010
-Merton,7.500,"7,0",2010
-Newham,17.000,"12,8",2010
-Redbridge,11.600,"8,9",2010
-Richmond upon Thames,5.900,"5,9",2010
-Southwark,16.200,"10,0",2010
-Sutton,7.400,"7,2",2010
-Tower Hamlets,15.200,"11,9",2010
-Waltham Forest,14.200,"11,2",2010
-Wandsworth,12.200,"7,0",2010
-Westminster,9.100,"8,2",2010
-City of London,-,-,2011
-Barking and Dagenham,11.200,"13,0",2011
-Barnet,14.700,"8,0",2011
-Bexley,9.300,"8,0",2011
-Brent,16.400,"10,8",2011
-Bromley,11.000,"6,9",2011
-Camden,9.700,"8,8",2011
-Croydon,19.600,"10,8",2011
-Ealing,17.700,"10,0",2011
-Enfield,18.300,"12,0",2011
-Greenwich,14.300,"10,8",2011
-Hackney,14.500,"10,7",2011
-Hammersmith and Fulham,8.200,"8,1",2011
-Haringey,15.700,"11,5",2011
-Harrow,8.900,"7,0",2011
-Havering,10.200,"8,2",2011
-Hillingdon,11.100,"7,8",2011
-Hounslow,11.000,"7,9",2011
-Islington,11.200,"9,5",2011
-Kensington and Chelsea,5.900,"7,3",2011
-Kingston upon Thames,5.400,"6,6",2011
-Lambeth,19.200,"10,4",2011
-Lewisham,15.500,"10,4",2011
-Merton,8.400,"7,8",2011
-Newham,19.900,"14,2",2011
-Redbridge,13.800,"10,5",2011
-Richmond upon Thames,5.000,"4,8",2011
-Southwark,18.200,"11,7",2011
-Sutton,7.100,"7,0",2011
-Tower Hamlets,17.000,"13,0",2011
-Waltham Forest,16.000,"11,5",2011
-Wandsworth,12.000,"6,5",2011
-Westminster,9.100,"7,8",2011
-City of London,-,-,2012
-Barking and Dagenham,11.800,"13,5",2012
-Barnet,15.900,"8,9",2012
-Bexley,9.200,"7,7",2012
-Brent,16.900,"10,3",2012
-Bromley,10.800,"6,6",2012
-Camden,9.100,"7,7",2012
-Croydon,20.300,"10,4",2012
-Ealing,19.400,"10,8",2012
-Enfield,17.300,"11,4",2012
-Greenwich,14.900,"10,7",2012
-Hackney,14.100,"10,7",2012
-Hammersmith and Fulham,8.800,"8,6",2012
-Haringey,14.200,"10,3",2012
-Harrow,9.800,"7,8",2012
-Havering,11.100,"9,4",2012
-Hillingdon,12.100,"8,2",2012
-Hounslow,10.400,"7,5",2012
-Islington,11.300,"9,6",2012
-Kensington and Chelsea,5.200,"6,4",2012
-Kingston upon Thames,5.400,"6,2",2012
-Lambeth,18.300,"10,0",2012
-Lewisham,15.800,"10,5",2012
-Merton,8.000,"7,3",2012
-Newham,19.200,"12,6",2012
-Redbridge,12.800,"9,4",2012
-Richmond upon Thames,4.900,"4,6",2012
-Southwark,16.700,"10,0",2012
-Sutton,7.000,"6,7",2012
-Tower Hamlets,16.500,"12,2",2012
-Waltham Forest,14.800,"10,8",2012
-Wandsworth,12.300,"6,6",2012
-Westminster,8.700,"7,3",2012
-City of London,-,-,2013
-Barking and Dagenham,12.500,"13,6",2013
-Barnet,12.800,"6,6",2013
-Bexley,9.600,"8,1",2013
-Brent,16.200,"9,9",2013
-Bromley,10.100,"6,1",2013
-Camden,8.900,"7,7",2013
-Croydon,17.500,"8,7",2013
-Ealing,17.700,"10,2",2013
-Enfield,14.800,"9,4",2013
-Greenwich,13.700,"10,5",2013
-Hackney,14.600,"11,0",2013
-Hammersmith and Fulham,8.400,"8,1",2013
-Haringey,13.800,"9,7",2013
-Harrow,9.700,"8,0",2013
-Havering,10.700,"8,9",2013
-Hillingdon,11.500,"7,7",2013
-Hounslow,10.600,"7,4",2013
-Islington,12.300,"9,9",2013
-Kensington and Chelsea,5.700,"7,1",2013
-Kingston upon Thames,5.100,"5,6",2013
-Lambeth,17.700,"8,7",2013
-Lewisham,15.800,"10,0",2013
-Merton,7.000,"6,0",2013
-Newham,18.700,"11,7",2013
-Redbridge,13.300,"9,2",2013
-Richmond upon Thames,4.500,"4,3",2013
-Southwark,17.700,"11,1",2013
-Sutton,6.900,"6,4",2013
-Tower Hamlets,19.100,"13,2",2013
-Waltham Forest,13.600,"9,5",2013
-Wandsworth,14.000,"7,5",2013
-Westminster,8.300,"6,7",2013
-City of London,-,-,2014
-Barking and Dagenham,9.600,"10,8",2014
-Barnet,12.400,"6,5",2014
-Bexley,7.000,"5,8",2014
-Brent,12.200,"7,4",2014
-Bromley,9.300,"5,6",2014
-Camden,8.300,"6,8",2014
-Croydon,14.400,"7,3",2014
-Ealing,14.000,"7,8",2014
-Enfield,13.200,"8,3",2014
-Greenwich,12.300,"9,1",2014
-Hackney,11.500,"8,1",2014
-Hammersmith and Fulham,6.700,"6,1",2014
-Haringey,11.500,"8,1",2014
-Harrow,7.000,"5,5",2014
-Havering,8.100,"6,4",2014
-Hillingdon,9.500,"6,2",2014
-Hounslow,8.900,"6,0",2014
-Islington,9.700,"7,8",2014
-Kensington and Chelsea,4.800,"5,8",2014
-Kingston upon Thames,4.800,"5,3",2014
-Lambeth,13.700,"6,6",2014
-Lewisham,10.900,"6,7",2014
-Merton,6.900,"6,1",2014
-Newham,14.000,"9,1",2014
-Redbridge,10.200,"6,8",2014
-Richmond upon Thames,4.800,"4,5",2014
-Southwark,14.000,"8,1",2014
-Sutton,5.800,"5,4",2014
-Tower Hamlets,13.700,"8,9",2014
-Waltham Forest,12.800,"9,3",2014
-Wandsworth,9.600,"5,0",2014
-Westminster,7.500,"6,1",2014
+Borough,Unemployment Level,Unemployment Rate,Year
+Barking and Dagenham,6600,9.1,2005
+Barnet,11500,7.0,2005
+Bexley,5700,5.0,2005
+Brent,10500,7.9,2005
+Bromley,7600,4.7,2005
+Camden,8500,7.7,2005
+Croydon,12400,7.0,2005
+Ealing,12100,7.7,2005
+Enfield,12000,8.8,2005
+Greenwich,10300,8.8,2005
+Hackney,9500,10.6,2005
+Hammersmith and Fulham,6800,6.9,2005
+Haringey,9600,8.2,2005
+Harrow,7000,6.2,2005
+Havering,5400,4.8,2005
+Hillingdon,8100,6.5,2005
+Hounslow,7800,6.4,2005
+Islington,7900,8.5,2005
+Kensington and Chelsea,5200,5.9,2005
+Kingston upon Thames,4100,5.0,2005
+Lambeth,12300,8.6,2005
+Lewisham,10000,7.4,2005
+Merton,6900,6.8,2005
+Newham,10000,9.3,2005
+Redbridge,8500,7.3,2005
+Richmond upon Thames,4100,4.1,2005
+Southwark,11200,8.5,2005
+Sutton,4800,4.7,2005
+Tower Hamlets,11600,11.8,2005
+Waltham Forest,10200,9.1,2005
+Wandsworth,9800,6.0,2005
+Westminster,8300,7.2,2005
+Barking and Dagenham,6900,9.5,2006
+Barnet,11300,6.8,2006
+Bexley,6300,5.5,2006
+Brent,12200,9.1,2006
+Bromley,8000,5.1,2006
+Camden,9200,8.3,2006
+Croydon,11900,6.6,2006
+Ealing,12100,7.3,2006
+Enfield,9600,6.7,2006
+Greenwich,9500,8.0,2006
+Hackney,11800,11.6,2006
+Hammersmith and Fulham,7800,7.9,2006
+Haringey,11500,9.3,2006
+Harrow,7900,6.7,2006
+Havering,5500,4.8,2006
+Hillingdon,8700,6.8,2006
+Hounslow,9400,7.6,2006
+Islington,8800,8.9,2006
+Kensington and Chelsea,5800,6.9,2006
+Kingston upon Thames,3900,4.7,2006
+Lambeth,13100,9.1,2006
+Lewisham,11400,8.3,2006
+Merton,6800,6.5,2006
+Newham,13500,11.7,2006
+Redbridge,8800,7.2,2006
+Richmond upon Thames,4100,4.1,2006
+Southwark,13200,9.5,2006
+Sutton,5100,5.1,2006
+Tower Hamlets,13400,14.0,2006
+Waltham Forest,9700,8.4,2006
+Wandsworth,11900,7.2,2006
+Westminster,9600,8.2,2006
+Barking and Dagenham,6100,7.8,2007
+Barnet,8800,5.2,2007
+Bexley,5000,4.4,2007
+Brent,12900,8.7,2007
+Bromley,7100,4.4,2007
+Camden,7800,6.9,2007
+Croydon,10800,6.0,2007
+Ealing,10300,6.4,2007
+Enfield,9100,6.7,2007
+Greenwich,8700,7.3,2007
+Hackney,12700,11.4,2007
+Hammersmith and Fulham,7000,7.0,2007
+Haringey,11600,9.7,2007
+Harrow,5700,4.9,2007
+Havering,4600,3.9,2007
+Hillingdon,6900,5.8,2007
+Hounslow,6700,5.5,2007
+Islington,8300,7.9,2007
+Kensington and Chelsea,4900,5.7,2007
+Kingston upon Thames,3300,4.1,2007
+Lambeth,15500,9.9,2007
+Lewisham,13100,9.7,2007
+Merton,5200,4.7,2007
+Newham,13500,11.4,2007
+Redbridge,7500,6.1,2007
+Richmond upon Thames,3600,3.5,2007
+Southwark,13700,9.4,2007
+Sutton,4500,4.7,2007
+Tower Hamlets,12000,11.7,2007
+Waltham Forest,8900,7.6,2007
+Wandsworth,9300,5.5,2007
+Westminster,7700,6.6,2007
+Barking and Dagenham,6700,8.6,2008
+Barnet,10600,6.4,2008
+Bexley,6400,5.6,2008
+Brent,11400,7.3,2008
+Bromley,7400,4.5,2008
+Camden,7900,7.0,2008
+Croydon,11700,6.1,2008
+Ealing,11600,6.9,2008
+Enfield,11800,8.3,2008
+Greenwich,9200,7.9,2008
+Hackney,10700,9.0,2008
+Hammersmith and Fulham,7700,7.7,2008
+Haringey,10600,9.0,2008
+Harrow,6600,6.0,2008
+Havering,6000,5.0,2008
+Hillingdon,7400,5.6,2008
+Hounslow,7400,5.9,2008
+Islington,8500,7.9,2008
+Kensington and Chelsea,5400,6.4,2008
+Kingston upon Thames,3900,4.8,2008
+Lambeth,14000,8.8,2008
+Lewisham,11400,7.9,2008
+Merton,5900,5.3,2008
+Newham,12700,10.1,2008
+Redbridge,9100,7.2,2008
+Richmond upon Thames,3700,3.7,2008
+Southwark,12600,8.4,2008
+Sutton,4400,4.4,2008
+Tower Hamlets,13300,11.3,2008
+Waltham Forest,10200,8.7,2008
+Wandsworth,9800,5.5,2008
+Westminster,8700,7.7,2008
+Barking and Dagenham,9400,11.9,2009
+Barnet,13200,7.5,2009
+Bexley,9200,8.2,2009
+Brent,15000,9.4,2009
+Bromley,9800,6.2,2009
+Camden,10100,8.8,2009
+Croydon,17100,9.0,2009
+Ealing,17200,10.3,2009
+Enfield,15400,11.2,2009
+Greenwich,12800,10.8,2009
+Hackney,14500,11.0,2009
+Hammersmith and Fulham,9100,9.1,2009
+Haringey,15500,12.8,2009
+Harrow,9000,7.4,2009
+Havering,9400,7.9,2009
+Hillingdon,10400,7.5,2009
+Hounslow,10500,8.0,2009
+Islington,12000,11.0,2009
+Kensington and Chelsea,6200,7.6,2009
+Kingston upon Thames,4700,5.5,2009
+Lambeth,18400,10.4,2009
+Lewisham,15300,10.3,2009
+Merton,7400,6.8,2009
+Newham,17600,13.9,2009
+Redbridge,11900,8.9,2009
+Richmond upon Thames,4900,5.0,2009
+Southwark,16500,10.7,2009
+Sutton,5900,5.7,2009
+Tower Hamlets,16800,13.6,2009
+Waltham Forest,14000,11.1,2009
+Wandsworth,11900,6.3,2009
+Westminster,9200,7.7,2009
+Barking and Dagenham,11000,13.1,2010
+Barnet,12800,7.0,2010
+Bexley,9900,8.5,2010
+Brent,13700,8.9,2010
+Bromley,10700,6.9,2010
+Camden,10200,8.7,2010
+Croydon,15400,8.1,2010
+Ealing,15900,9.2,2010
+Enfield,14200,9.9,2010
+Greenwich,12300,9.7,2010
+Hackney,13900,10.4,2010
+Hammersmith and Fulham,8400,8.5,2010
+Haringey,13200,10.6,2010
+Harrow,8300,6.6,2010
+Havering,9800,8.5,2010
+Hillingdon,12400,9.3,2010
+Hounslow,10100,7.6,2010
+Islington,10100,9.3,2010
+Kensington and Chelsea,5600,7.0,2010
+Kingston upon Thames,5800,6.9,2010
+Lambeth,16600,9.3,2010
+Lewisham,14500,10.5,2010
+Merton,7500,7.0,2010
+Newham,17000,12.8,2010
+Redbridge,11600,8.9,2010
+Richmond upon Thames,5900,5.9,2010
+Southwark,16200,10.0,2010
+Sutton,7400,7.2,2010
+Tower Hamlets,15200,11.9,2010
+Waltham Forest,14200,11.2,2010
+Wandsworth,12200,7.0,2010
+Westminster,9100,8.2,2010
+Barking and Dagenham,11200,13.0,2011
+Barnet,14700,8.0,2011
+Bexley,9300,8.0,2011
+Brent,16400,10.8,2011
+Bromley,11000,6.9,2011
+Camden,9700,8.8,2011
+Croydon,19600,10.8,2011
+Ealing,17700,10.0,2011
+Enfield,18300,12.0,2011
+Greenwich,14300,10.8,2011
+Hackney,14500,10.7,2011
+Hammersmith and Fulham,8200,8.1,2011
+Haringey,15700,11.5,2011
+Harrow,8900,7.0,2011
+Havering,10200,8.2,2011
+Hillingdon,11100,7.8,2011
+Hounslow,11000,7.9,2011
+Islington,11200,9.5,2011
+Kensington and Chelsea,5900,7.3,2011
+Kingston upon Thames,5400,6.6,2011
+Lambeth,19200,10.4,2011
+Lewisham,15500,10.4,2011
+Merton,8400,7.8,2011
+Newham,19900,14.2,2011
+Redbridge,13800,10.5,2011
+Richmond upon Thames,5000,4.8,2011
+Southwark,18200,11.7,2011
+Sutton,7100,7.0,2011
+Tower Hamlets,17000,13.0,2011
+Waltham Forest,16000,11.5,2011
+Wandsworth,12000,6.5,2011
+Westminster,9100,7.8,2011
+Barking and Dagenham,11800,13.5,2012
+Barnet,15900,8.9,2012
+Bexley,9200,7.7,2012
+Brent,16900,10.3,2012
+Bromley,10800,6.6,2012
+Camden,9100,7.7,2012
+Croydon,20300,10.4,2012
+Ealing,19400,10.8,2012
+Enfield,17300,11.4,2012
+Greenwich,14900,10.7,2012
+Hackney,14100,10.7,2012
+Hammersmith and Fulham,8800,8.6,2012
+Haringey,14200,10.3,2012
+Harrow,9800,7.8,2012
+Havering,11100,9.4,2012
+Hillingdon,12100,8.2,2012
+Hounslow,10400,7.5,2012
+Islington,11300,9.6,2012
+Kensington and Chelsea,5200,6.4,2012
+Kingston upon Thames,5400,6.2,2012
+Lambeth,18300,10.0,2012
+Lewisham,15800,10.5,2012
+Merton,8000,7.3,2012
+Newham,19200,12.6,2012
+Redbridge,12800,9.4,2012
+Richmond upon Thames,4900,4.6,2012
+Southwark,16700,10.0,2012
+Sutton,7000,6.7,2012
+Tower Hamlets,16500,12.2,2012
+Waltham Forest,14800,10.8,2012
+Wandsworth,12300,6.6,2012
+Westminster,8700,7.3,2012
+Barking and Dagenham,12500,13.6,2013
+Barnet,12800,6.6,2013
+Bexley,9600,8.1,2013
+Brent,16200,9.9,2013
+Bromley,10100,6.1,2013
+Camden,8900,7.7,2013
+Croydon,17500,8.7,2013
+Ealing,17700,10.2,2013
+Enfield,14800,9.4,2013
+Greenwich,13700,10.5,2013
+Hackney,14600,11.0,2013
+Hammersmith and Fulham,8400,8.1,2013
+Haringey,13800,9.7,2013
+Harrow,9700,8.0,2013
+Havering,10700,8.9,2013
+Hillingdon,11500,7.7,2013
+Hounslow,10600,7.4,2013
+Islington,12300,9.9,2013
+Kensington and Chelsea,5700,7.1,2013
+Kingston upon Thames,5100,5.6,2013
+Lambeth,17700,8.7,2013
+Lewisham,15800,10.0,2013
+Merton,7000,6.0,2013
+Newham,18700,11.7,2013
+Redbridge,13300,9.2,2013
+Richmond upon Thames,4500,4.3,2013
+Southwark,17700,11.1,2013
+Sutton,6900,6.4,2013
+Tower Hamlets,19100,13.2,2013
+Waltham Forest,13600,9.5,2013
+Wandsworth,14000,7.5,2013
+Westminster,8300,6.7,2013
+Barking and Dagenham,9600,10.8,2014
+Barnet,12400,6.5,2014
+Bexley,7000,5.8,2014
+Brent,12200,7.4,2014
+Bromley,9300,5.6,2014
+Camden,8300,6.8,2014
+Croydon,14400,7.3,2014
+Ealing,14000,7.8,2014
+Enfield,13200,8.3,2014
+Greenwich,12300,9.1,2014
+Hackney,11500,8.1,2014
+Hammersmith and Fulham,6700,6.1,2014
+Haringey,11500,8.1,2014
+Harrow,7000,5.5,2014
+Havering,8100,6.4,2014
+Hillingdon,9500,6.2,2014
+Hounslow,8900,6.0,2014
+Islington,9700,7.8,2014
+Kensington and Chelsea,4800,5.8,2014
+Kingston upon Thames,4800,5.3,2014
+Lambeth,13700,6.6,2014
+Lewisham,10900,6.7,2014
+Merton,6900,6.1,2014
+Newham,14000,9.1,2014
+Redbridge,10200,6.8,2014
+Richmond upon Thames,4800,4.5,2014
+Southwark,14000,8.1,2014
+Sutton,5800,5.4,2014
+Tower Hamlets,13700,8.9,2014
+Waltham Forest,12800,9.3,2014
+Wandsworth,9600,5.0,2014
+Westminster,7500,6.1,2014
